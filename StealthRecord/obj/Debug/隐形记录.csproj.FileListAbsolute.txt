@@ -1,0 +1,12 @@
+D:\TH\Tool\隐形记录\隐形记录\bin\Debug\隐形记录.exe.config
+D:\TH\Tool\隐形记录\隐形记录\bin\Debug\隐形记录.exe
+D:\TH\Tool\隐形记录\隐形记录\bin\Debug\隐形记录.pdb
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.csprojResolveAssemblyReference.cache
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.Form1.resources
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.Properties.Resources.resources
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.csproj.GenerateResource.Cache
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.exe
+D:\TH\Tool\隐形记录\隐形记录\obj\Debug\隐形记录.pdb
+F:\C#\C sharp 自研\隐形记录\隐形记录\bin\Debug\隐形记录.exe.config
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.exe
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.pdb

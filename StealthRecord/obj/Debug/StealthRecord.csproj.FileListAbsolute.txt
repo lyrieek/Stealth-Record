@@ -1,0 +1,11 @@
+F:\C#\C sharp 自研\隐形记录\隐形记录\bin\Debug\隐形记录.exe.config
+F:\C#\C sharp 自研\隐形记录\隐形记录\bin\Debug\隐形记录.exe
+F:\C#\C sharp 自研\隐形记录\隐形记录\bin\Debug\隐形记录.pdb
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\StealthRecord.csprojResolveAssemblyReference.cache
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.Main_From.resources
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.Properties.Resources.resources
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\StealthRecord.csproj.GenerateResource.Cache
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.exe
+F:\C#\C sharp 自研\隐形记录\隐形记录\obj\Debug\隐形记录.pdb
+F:\C#\C sharp 自研\隐形记录\隐形记录\bin\Debug\StealthRecord.exe.config
+F:\C#\C sharp 自研\StealthRecord\StealthRecord\bin\Debug\StealthRecord.exe.config
