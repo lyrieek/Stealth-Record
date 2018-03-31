@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="KeyboardHook.cs" />
     <Compile Include="Main_From.cs">
       <SubType>Form</SubType>
     </Compile>
