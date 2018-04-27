@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 隐形记录 {
+namespace StealthRecord {
     public partial class Main_From : Form {
         //KeyboardHook k_hook;
         public Main_From() {
