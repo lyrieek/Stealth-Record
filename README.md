@@ -1,3 +1,3 @@
-#Stealth Record
+# Stealth Record
 
-- 鼠标坐标记录，重现
+- 记录鼠标坐标，播放记录
